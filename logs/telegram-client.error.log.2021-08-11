@@ -1,0 +1,2 @@
+2021-08-11 14:30:50 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: The phone number is invalid (caused by SendCodeRequest)
+2021-08-11 14:30:50 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85263543082，+85269910193]

@@ -1,0 +1,9 @@
+telethon==1.26.1
+tornado
+pycryptodome
+pycurl
+aiormq
+pysocks
+mmh3
+requests
+aioredis==1.3.1

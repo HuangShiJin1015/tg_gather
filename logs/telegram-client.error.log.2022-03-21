@@ -1,0 +1,42 @@
+2022-03-21 11:12:31 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85251617973]
+2022-03-21 11:13:17 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)
+2022-03-21 11:13:17 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85251654091]
+2022-03-21 11:13:43 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85251617973]
+2022-03-21 13:50:22 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)
+2022-03-21 13:50:22 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85251788819]
+2022-03-21 13:59:32 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)
+2022-03-21 13:59:32 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85251788819]
+2022-03-21 14:03:50 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85251617973]
+2022-03-21 14:42:25 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85251617973]
+2022-03-21 14:42:49 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 14:43:09 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85264395112]
+2022-03-21 14:44:41 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85264395112]
+2022-03-21 14:49:07 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85264395112]
+2022-03-21 14:50:30 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85264395112]
+2022-03-21 15:00:58 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 15:01:17 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85264395112]
+2022-03-21 15:01:33 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 15:03:23 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85251617973]
+2022-03-21 15:05:03 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 15:05:34 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85264395112]
+2022-03-21 15:05:51 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 15:06:17 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85264395112]
+2022-03-21 15:08:23 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 15:09:19 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85264395112]
+2022-03-21 15:09:45 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 15:10:00 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85264395112]
+2022-03-21 15:10:22 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 15:10:38 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: A wait of 160 seconds is required (caused by SendCodeRequest)
+2022-03-21 15:10:38 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85264395112]
+2022-03-21 15:17:31 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 15:20:18 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 15:21:05 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: A wait of 85533 seconds is required (caused by SendCodeRequest)
+2022-03-21 15:21:05 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85264395112]
+2022-03-21 15:30:15 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 15:35:03 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85267092660]
+2022-03-21 15:35:18 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 15:40:26 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85267092660]
+2022-03-21 15:40:42 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: RPCError 406: UPDATE_APP_TO_LOGIN (caused by SignInRequest)
+2022-03-21 15:50:53 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85267092660]
+2022-03-21 15:59:11 - [ERROR] - teleclient[line:88]: Connecting to telegram server error, message: The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)
+2022-03-21 15:59:11 - [ERROR] - teleclient[line:528]: [init]-[账号初始化失败]-[+85246238073]
